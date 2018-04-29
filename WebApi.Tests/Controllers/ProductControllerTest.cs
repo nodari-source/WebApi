@@ -12,7 +12,7 @@ using WebApi.Controllers;
 namespace WebApi.Tests.Controllers
 {
     [TestClass]
-    public class ValuesControllerTest
+    public class ProductControllerTest
     {
         [TestMethod]
         public void Get()
